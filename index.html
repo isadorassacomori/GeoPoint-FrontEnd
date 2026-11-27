@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GeoPoint - Pontos Geográficos</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header>
+    <h1>GeoPoint</h1>
+    <nav>
+      <a href="index.html">Início</a>
+      <a href="formulario.html">Cadastrar ponto</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Pontos Geográficos</h2>
+
+    <label for="filtro" class="label-filtro">Pesquisar ponto:</label>
+    <input type="text" id="filtro" placeholder="Pesquisar pelo nome...">
+
+    <p class="aviso-tabela">
+      Deslize a tabela para visualizar todas as informações.
+    </p>
+
+    <div class="tabela-container">
+      <table>
+        <thead>
+          <tr>
+            <th>Nome</th>
+            <th>Descrição</th>
+            <th>Latitude</th>
+            <th>Longitude</th>
+            <th>Ações</th>
+          </tr>
+        </thead>
+        <tbody id="tabela-pontos"></tbody>
+      </table>
+    </div>
+
+    <p id="mensagem">Carregando pontos...</p>
+  </main>
+
+  <script src="js/api.js"></script>
+  <script src="js/lista.js"></script>
+
+</body>
+</html>
