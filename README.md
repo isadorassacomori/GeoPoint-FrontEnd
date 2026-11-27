@@ -26,29 +26,29 @@ https://geopoint-6x4u.onrender.com
 ### Listagem
 
 | Desktop | Mobile |
-| --- | --- |
-|<img src="prints/geopoint/listagem.desktop.png" | <img src="prints/geopoint/listagem.mobile.png" |
+| :---: | :---: |
+| <img src="prints/geopoint/listagem.desktop.png" width="650"> | <img src="prints/geopoint/listagem.mobile.png" width="220"> |
 
 ### Filtro
 
 | Desktop | Mobile |
-| --- | --- |
-| <img src="prints/geopoint/filtro.desktop.png" |<img src="prints/geopoint/filtro.mobile.png" |
+| :---: | :---: |
+| <img src="prints/geopoint/filtro.desktop.png" width="650"> | <img src="prints/geopoint/filtro.mobile.png" width="220"> |
 
 ### Cadastro
 
 | Desktop | Mobile |
-| --- | --- |
-| <img src="prints/geopoint/cadastro.desktop.png" | <img src="prints/geopoint/cadastro.mobile.png" |
+| :---: | :---: |
+| <img src="prints/geopoint/cadastro.desktop.png" width="650"> | <img src="prints/geopoint/cadastro.mobile.png" width="220"> |
 
-### Detalhe 
+### Detalhe
 
 | Desktop | Mobile |
-| --- | --- |
-| <img src="prints/geopoint/detalhes.desktop.png" | <img src="prints/geopoint/detalhes.mobile.png" |
+| :---: | :---: |
+| <img src="prints/geopoint/detalhes.desktop.png" width="650"> | <img src="prints/geopoint/detalhes.mobile.png" width="220"> |
 
 ### Edição
 
 | Desktop | Mobile |
-| --- | --- |
-|<img src="prints/geopoint/edicao.desktop.png" | <img src="prints/geopoint/edicao.mobile.png" |
+| :---: | :---: |
+| <img src="prints/geopoint/edicao.desktop.png" width="650"> | <img src="prints/geopoint/edicao.mobile.png" width="220"> |
