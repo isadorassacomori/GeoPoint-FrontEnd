@@ -5,6 +5,9 @@
 ## Aluna: 
 Isadora Severo Sacomori
 
+## RA:
+1139246
+
 ## Tecnologia escolhida:
 HTML, CSS e JavaScript puro.
 
