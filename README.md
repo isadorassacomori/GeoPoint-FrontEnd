@@ -27,28 +27,28 @@ https://geopoint-6x4u.onrender.com
 
 | Desktop | Mobile |
 | --- | --- |
-|[Listagem Desktop](prints/listagem.desktop.png) |[Listagem Mobile](prints/listagem.mobile.png)|
+| ![Listagem Desktop](prints/listagem.desktop.png) | ![Listagem Mobile](prints/listagem.mobile.png)|
 
 ### Filtro
 
 | Desktop | Mobile |
 | --- | --- |
-|[Filtro Desktop](prints/filtro.desktop.png) |[Filtro Mobile](prints/filtro.mobile.png)|
+| ![Filtro Desktop](prints/filtro.desktop.png) | ![Filtro Mobile](prints/filtro.mobile.png)|
 
 ### Cadastro
 
 | Desktop | Mobile |
 | --- | --- |
-|[Cadastro Desktop](prints/cadastro.desktop.png) |[Cadastro Mobile](prints/cadastro.mobile.png)|
+| ![Cadastro Desktop](prints/cadastro.desktop.png) | ![Cadastro Mobile](prints/cadastro.mobile.png)|
 
 ### Detalhe 
 
 | Desktop | Mobile |
 | --- | --- |
-|[Detalhe Desktop](prints/detalhes.desktop.png) |[Detalhe Mobile](prints/detalhes.mobile.png)|
+| ![Detalhe Desktop](prints/detalhes.desktop.png) | ![Detalhe Mobile](prints/detalhes.mobile.png)|
 
 ### Edição
 
 | Desktop | Mobile |
 | --- | --- |
-|[Edição Desktop](prints/edicao.desktop.png) |[Edição Mobile](prints/edicao.mobile.png)|
+| ![Edição Desktop](prints/edicao.desktop.png) | ![Edição Mobile](prints/edicao.mobile.png)|
